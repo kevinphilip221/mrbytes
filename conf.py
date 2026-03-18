@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Guide to Activate TurboTax with License Code and Download TurboTax Software with License Code"
+html_title = "Download and Reinstall Malwarebytes Already Purchased (Activate on Windows 10 or 11 Easily)"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
